@@ -22,4 +22,4 @@ These include experiment name (exp_name), variable names (within_var & between_v
 If properly setup, running the script generates a folder named Routput.
 Within you will find ANOVA results, plots, and descriptive statistics (Mean, SE) by condition.
 
-(Feel free to contact me at jimmy171778@gmail.com for any bugs or suggestions.)
+(Feel free to contact me at 105702012@nccu.edu.tw for any bugs or suggestions.)
