@@ -3,7 +3,7 @@ Analysis code for Methods of Psychological Experiment course under R environment
 Author: Tzu-Yao Chiu, National Chengchi University
 Last Update: 2020.09.21
 
-\bIntroduction\b
+Introduction
 This is an automatic analyzing code for simple factorial experiments.
 With proper set up, the code can generate merged data, statistical tests (ANOVA), and data visualization.
 
